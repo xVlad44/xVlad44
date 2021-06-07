@@ -1,16 +1,14 @@
 ### Hi there 👋
+I code stuff.......and uh yea that's nice i guess. I also make Discord bots and uh yea that's cool. Still learning react..
 
-<!--
-**xVlad44/xVlad44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Krony](https://krony.xyz) 
+
+## Github Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xVllad44v2&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xVllad44v2&layout=compact)]
