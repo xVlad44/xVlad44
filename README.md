@@ -1,5 +1,5 @@
 ### Hi there 👋
-I code stuff.......and uh yea that's nice i guess. I also make Discord bots and uh yea that's cool. Still learning react..
+I code stuff.......and uh yea that's nice i guess. I also make Discord bots and uh yea that's cool. 
 
 
 ## Projects
