@@ -4,7 +4,7 @@ I code stuff.......and uh yea that's nice i guess. I also make Discord bots and 
 
 ## Projects
 
-[Krony](https://krony.xyz) 
+[T-Tech CoOwner](https://t-tech.xyz) 
 
 ## Github Stats
 
