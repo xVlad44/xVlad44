@@ -13,7 +13,6 @@ I code stuff.......and uh yea that's nice i guess. I also make Discord bots and 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xVlad44&layout=compact)
 
-## Streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xVlad44"/></p>
 
 ## Languages and Tools
