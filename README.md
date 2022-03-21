@@ -4,7 +4,11 @@ I code stuff.......and uh yea that's nice i guess. I also make Discord bots and 
 
 ## Projects
 
-[T-Tech CoOwner](https://t-tech.xyz) 
+Krony
+
+## Portofolio
+
+[Portofolio](https://vlad44.xyz) 
 
 ## Github Stats
 
