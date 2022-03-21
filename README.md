@@ -8,7 +8,7 @@ Krony
 
 ## Portofolio
 
-[Portofolio](https://vlad44.xyz) 
+[Portofolio](https://xvlad44.github.io/my-portofolio/) 
 
 ## Github Stats
 
