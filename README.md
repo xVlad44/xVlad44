@@ -18,7 +18,7 @@ One of my favorite projects is Krony, a Discord bot that has ton and a half of m
 
 ## Portofolio
 
-[Portofolio](https://vlad44.xyz) 
+[My website](https://vlad44.xyz) 
 
 ## Github Stats
 
