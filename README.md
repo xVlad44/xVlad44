@@ -25,9 +25,7 @@ One of my favorite projects is Krony, a Discord bot that has ton and a half of m
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xVlad44&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xVlad44&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xVlad44"/></p>
 
 
 ### Languages and Tools:
