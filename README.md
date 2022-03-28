@@ -5,7 +5,7 @@
 My Name is Vlad, I'm a web and app developer.
 I started as a javascript developer back in 2019 when I started the development of a Discord Bot called Krony.
 I leaped into action and started learning React.JS and MongoDB and Express. Today I'm working on lots of different side projects mainly using JavaScript.
-One of my favorite projects is Krony, a Discord bot that has ton and a half of moderation commands.
+One of my favorite projects is Krony, a Discord bot that has ton and a half of moderation commands. Check out my other projects on my portofolio web :D!
 
 
 <br />
