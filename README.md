@@ -32,7 +32,7 @@ One of my favorite projects is Krony, a Discord bot that has ton and a half of m
 
 ### Languages and Tools:
 
-<img align="right" alt="GIF" src="assets/animations/programmer.gif" width="350" />
+<img align="right" alt="GIF" src="assets/programmer.gif" width="350" />
 
 
 ##### Web Development
