@@ -72,4 +72,4 @@ One of my favorite projects is Krony, a Discord bot that has ton and a half of m
 <br /><br /><br /><br />
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=justfossa&theme=tokyonight_duo&hide_border=true" alt="justfossa" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=justfossa&theme=tokyonight_duo&hide_border=true" alt="xVlad44" /></p>
