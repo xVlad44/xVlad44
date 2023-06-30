@@ -16,7 +16,7 @@ One of my favorite projects is Krony, a Discord bot that has ton and a half of m
 
 <br />
 
-<img src="https://discord.c99.nl/widget/theme-3/230850125033897984.png" alt="Discord"/>
+
 
 
 ## Portofolio
