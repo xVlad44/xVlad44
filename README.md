@@ -67,6 +67,9 @@ I started my development journey in 2019, learning C++ in school and exploring J
 ##### Tools and Software
 <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/clion/clion-original.svg" alt="clion" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" alt="git" width="40"/></code>
+
 
 
 <br /><br /><br /><br />
