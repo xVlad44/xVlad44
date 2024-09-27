@@ -20,6 +20,14 @@ I started my development journey in 2019, learning C++ in school and exploring J
 
 <img align="right" alt="GIF" src="assets/programmer.gif" width="350" />
 
+##### Known Languages
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="c" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" alt="csharp" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" alt="python" width="40"/></code>
+
 
 ##### Web Development
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/></code>
