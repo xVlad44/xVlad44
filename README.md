@@ -51,6 +51,11 @@ I started my development journey in 2019, learning C++ in school and exploring J
 ##### Database
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg" alt="prisma" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" alt="mysql" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/supabase/supabase-original.svg" alt="supabase" width="40"/></code>
+
 
 
 ##### Data Visualization
