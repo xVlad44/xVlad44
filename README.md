@@ -3,9 +3,7 @@
 
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 My Name is Vlad, I'm a web and app developer.
-I started as a javascript developer back in 2019 when I started the development of a Discord Bot called Krony.
-I leaped into action and started learning React.JS and MongoDB and Express. Today I'm working on lots of different side projects mainly using JavaScript.
-One of my favorite projects is Krony, a Discord bot that has ton and a half of moderation commands. Check out my other projects on my portofolio web :D!
+I started my development journey in 2019, learning C++ in school and exploring JavaScript out of curiosity while building a Discord bot. Over time, I honed my skills in web development, mastering frameworks like Express.js, React, and Next.js. My recent shift to TypeScript has allowed me to write more efficient, maintainable code. With a strong foundation in both frontend and backend technologies, I’m passionate about building scalable and impactful web applications, always eager to tackle new challenges and expand my knowledge.
 
 
 <br />
@@ -15,19 +13,6 @@ One of my favorite projects is Krony, a Discord bot that has ton and a half of m
 
 
 <br />
-
-
-
-
-## Portofolio
-
-[My website](https://vlad44.xyz) 
-
-## Github Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xVlad44&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
-
-
 
 
 
